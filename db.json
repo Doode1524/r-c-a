@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "firstName": "Joey",
+      "lastName": "Da Bug",
+      "id": 1
+    },
+    {
+      "firstName": "Danielle",
+      "lastName": "Peterson Rules",
+      "id": 2
+    },
+    {
+      "firstName": "Dj",
+      "lastName": "Ravioli",
+      "id": 3
+    }
+  ],
+
+  "cats": [
+    {
+      "id": 1,
+      "name": "Penny",
+      "user_id": 1   
+    },
+    { "id": 2, "name": "Jazzmine", "user_id": 1 },
+    { "id": 3, "name": "Jasper", "user_id": 2 },
+    { "id": 4, "name": "Teddy", "user_id": 2 }
+  ]
+}
